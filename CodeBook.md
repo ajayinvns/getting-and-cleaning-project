@@ -1,17 +1,18 @@
-#Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
+
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. R script called run_analysis.R to be created that does the following.
 
-*Merges the training and the test sets to create one data set.
+* Merges the training and the test sets to create one data set.
 
-*Extracts only the measurements on the mean and standard deviation for each measurement.
+* Extracts only the measurements on the mean and standard deviation for each measurement.
 
-*Uses descriptive activity names to name the activities in the data set.
+* Uses descriptive activity names to name the activities in the data set.
 
-*Appropriately labels the data set with descriptive variable names.
+* Appropriately labels the data set with descriptive variable names.
 
-*From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+* From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-#Description of the DATA
+# Description of the DATA
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. and the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) - both using a low pass Butterworth filter.
 
